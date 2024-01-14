@@ -1,0 +1,7 @@
+FundMeTest:testForVersion() (gas: 8588)
+FundMeTest:testFunders() (gas: 95278)
+FundMeTest:testFunding() (gas: 92212)
+FundMeTest:testMinimumDollarIsFive() (gas: 5427)
+FundMeTest:testNotOwner() (gas: 8265)
+FundMeTest:testOwnerIsMsgSender() (gas: 5634)
+FundMeTest:testWithdraw() (gas: 79659)
